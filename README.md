@@ -9,7 +9,8 @@ Hedge ratio is calculated using the linear regression.
 
 The linear equation typically takes the form:
 y = βX + ϵ
-where y is the dependent variable, X is the independent variables, and β is the slope that we want to estimate and ϵ is the error term.
+
+,where y is the dependent variable, X is the independent variables, and β is the slope that we want to estimate and ϵ is the error term.
 
 The OLS function from the statsmodels package is used to calculate the hedge ratio.
 
